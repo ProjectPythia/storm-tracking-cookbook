@@ -1,0 +1,1 @@
+import{b as t}from"/storm-tracking-cookbook/_preview/6/build/_shared/chunk-ZHBLEF4E.js";var s=class{constructor(i){this.init=i,this.records=this.init()}static{t(this,"ImperativeState")}reset(){this.records=this.init()}};export{s as a};
